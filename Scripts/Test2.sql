@@ -1,6 +1,5 @@
 --Total purchase sales income per dealership
 
-
 SELECT DISTINCT
 	s.dealership_id,
 	d.business_name,
